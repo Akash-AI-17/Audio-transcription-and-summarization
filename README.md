@@ -4,6 +4,8 @@ This script employs OpenAI's Whisper model for audio transcription, Mistral 7B f
 # Interactive Text Summarization Tool
 This project is an interactive tool that combines the power of various state-of-the-art models for audio transcription, text summarization, and user interaction. It leverages the following technologies:
 
-OpenAI Whisper: A robust speech recognition model for audio transcription.
+.OpenAI Whisper: A robust speech recognition model for audio transcription.
 Mistral 7B: A large language model for various text related tasks.
 Gradio: A user-friendly library for building interactive interfaces in Python.
+
+## Features
