@@ -33,7 +33,7 @@ This project is an interactive tool that combines the power of various state-of-
 
 • Gradio: A library for building interactive interfaces in Python.
 
-## Contributing
+## Contribution
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## License
